@@ -40,11 +40,7 @@ class MazesController < ApplicationController
     end
   end
 
-  def solve
-    respond_to do |format|
-      format.js
-    end
-  end
+  
 
   # PATCH/PUT /mazes/1
   # PATCH/PUT /mazes/1.json

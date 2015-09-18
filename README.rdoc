@@ -9,7 +9,7 @@ I have not gotten around to preparing a test suit with rspec/jasmine, but may re
 
 The door is marked "2" and the exit "3". The walls are "1"s and the path is "0"s.
 
-You can find it at 
+You can find it at https://maze-runner-test.herokuapp.com/
 
 
 Please feel free to use a different markup language if you do not plan to run
